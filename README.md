@@ -1,6 +1,6 @@
 # Fashion_data_analysis_using_excel
 
-📍Download the complete [report] (https://1drv.ms/x/s!AnKIYljYY7amgUGAkeU6fr1bjGZy?e=ZPuVNR) from here.
+📍Download the complete [report](https://1drv.ms/x/s!AnKIYljYY7amgUGAkeU6fr1bjGZy?e=ZPuVNR) from here.
 
 ## Objective
 
